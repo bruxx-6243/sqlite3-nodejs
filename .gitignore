@@ -1,0 +1,8 @@
+{
+# node modules
+./node_modules
+
+
+# DB_PATH
+./app/movie.qlite
+}
